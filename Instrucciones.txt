@@ -7,7 +7,7 @@ Owner: postgres
 
 
 2. Backend
-- Con el terminal nos posicionamos en la carpeta Prueba tecnica y digitamos el comando: npm run dev 
+- Con el terminal nos posicionamos en la carpeta PruebaTecnica y digitamos el comando: npm run dev 
 
 3. Frontend
-- - Con el terminal nos posicionamos en la carpeta Prueba tecnica/CLient y digitamos el comando: npm run dev 
+- - Con el terminal nos posicionamos en la carpeta PruebaTecnica/client y digitamos el comando: npm run dev 
