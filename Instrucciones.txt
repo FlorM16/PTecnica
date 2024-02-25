@@ -1,0 +1,13 @@
+Instrucciones:
+1. Base de Datos
+- Ingresar al PostgreSQL y crear una bd con los siguientes datos:
+Database: pruebaTecnicaDB
+Owner: postgres
+- Importar los datos que se encuentran en el archivo prueba pruebaTecnicaDB.sql
+
+
+2. Backend
+- Con el terminal nos posicionamos en la carpeta Prueba tecnica y digitamos el comando: npm run dev 
+
+3. Frontend
+- - Con el terminal nos posicionamos en la carpeta Prueba tecnica/CLient y digitamos el comando: npm run dev 
