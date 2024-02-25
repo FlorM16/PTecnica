@@ -5,25 +5,13 @@ Database: pruebaTecnicaDB
 Owner: postgres
 - Importar los datos que se encuentran en el archivo prueba pruebaTecnicaDB.sql
 
-
+->Luego de clonar el proyecto:
 2. Backend
-- Con el terminal nos posicionamos en la carpeta PruebaTecnica y digitamos el comando: npm run dev 
-- En la misma carpeta PruebaTecnica instalar las siguientes dependencias si es necesario:
-    npm install @hookform/resolvers
-    npm install bcryptjs
-    npm install cookie-parser
-    npm install cors
-    npm install express
-    npm install jsonwebtoken
-    npm install morgan
-    npm install pg
-    npm install sequelize
-    npm install zod
+Con el terminal nos posicionamos en la carpeta PruebaTecnica y digitamos el comando: 
+npm install
+npm start 
 
 3. Frontend
- - Con el terminal nos posicionamos en la carpeta PruebaTecnica/client y digitamos el comando: npm run dev 
- - En la misma carpeta PruebaTecnica/client instalar las siguientes dependencias si es necesario:
-   npm install axios
-   npm install js-cookie 
-   npm install react-hook-form
-   npm install react-router-dom
+ Abrimos otro terminal, nos posicionamos en la carpeta PruebaTecnica/client y digitamos el comando:
+ npm install 
+ npm start
