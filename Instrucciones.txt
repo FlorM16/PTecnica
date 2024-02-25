@@ -9,9 +9,9 @@ Owner: postgres
 2. Backend
 Con el terminal nos posicionamos en la carpeta PruebaTecnica y digitamos el comando: 
 npm install
-npm start 
+npm run dev / npm start 
 
 3. Frontend
  Abrimos otro terminal, nos posicionamos en la carpeta PruebaTecnica/client y digitamos el comando:
  npm install 
- npm start
+ npm run dev / npm start
